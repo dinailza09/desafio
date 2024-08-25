@@ -9,6 +9,7 @@ Desenvolver um sistema de gerenciamento de tarefas que permita aos usuários cri
     Node.js: Plataforma para execução de JavaScript no servidor.
     PHP: Linguagem de programação para desenvolvimento do backend.
     MySQL: Banco de dados relacional para armazenar informações.
+    Tailwind CSS: Framework de CSS para criação de interfaces responsivas e estilizadas.
     
 ## 🔍 Requisitos Funcionais
 
