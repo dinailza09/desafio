@@ -55,11 +55,17 @@ Desenvolver um sistema de gerenciamento de tarefas que permita aos usuários cri
     php artisan migrate
     ```
 
-5. **Inicie o Servidor de Desenvolvimento:**
+5. **Popule o Banco de Dados:**
+    - Para criar dados iniciais no banco de dados, execute o comando:
+    ```bash
+    php artisan db:seed
+    ```
+
+6. **Inicie o Servidor de Desenvolvimento:**
     ```bash
     php artisan serve
     ```
 
-6. 🛠️ **Rodar o projeto**
+7. 🛠️ **Rodar o Projeto**
     - Abra seu navegador e acesse `http://localhost:8000`.
 
